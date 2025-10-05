@@ -20,3 +20,4 @@ in login -> npm install
 after this run commond to start both backend and frontend server
 in backend -> npm start
 in login -> npm run dev
+```bash
