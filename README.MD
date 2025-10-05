@@ -2,14 +2,14 @@
 
 ##  Clone the Project
 
-1. Go to the repository URL (e.g., `https://github.com/username/project-name.git`).  
+1. Go to the repository URL (e.g., `https://github.com/Gautam3210/login-form.git`).  
 2. Open your terminal (or Git Bash on Windows).  
 3. Run the following command:
 
 ```bash
-git clone https://github.com/username/project-name.git
+git clone https://github.com/Gautam3210/login-form.git
 
-add this file in you .env file in backend folder
+add this file .env in backend folder
 PORT=5000
 DATABASE_URL=your_postgres_database_url_here
 
